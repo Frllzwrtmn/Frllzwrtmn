@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Frllzwrtmn
-- 👀 I’m interested in CodeIngniterr & PHP
+- 👀 I’m interested in CodeIgniter & PHP
 - 🌱 I’m currently learning CodeIgniter
 - 💞️ I’m looking to collaborate on Many People
 - 📫 How to reach me Just DM my twitter.
